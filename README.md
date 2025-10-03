@@ -5,6 +5,7 @@
 This museum is a virtual museum showcasing Renaissance-era art, designed in Unity to immerse visitors in the beauty and history of classical masterpieces. This project recreates a curated gallery space where users can explore artworks and experience the cultural richness of the Renaissance period. You will also find an interactive panel with a short description of each piece.
 
 Bonus: 10+ exhibitions
+
 In this museum you can find...
 
 ![Image 10-3-25 at 10 26 AM (2)](https://github.com/user-attachments/assets/ead1357b-24d7-4ef7-9d43-a6b7b6541d83)
